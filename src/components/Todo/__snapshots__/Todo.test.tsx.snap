@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  data-testid={2}
+>
+  <h1
+    className="line-through"
+  >
+    eat
+  </h1>
+</div>
+`;
